@@ -1,0 +1,31 @@
+
+U
+7
+
+CustomerIDCustomer ID"
+CustomerIDJfeature_store2
+”ÊÀ€úä\”ÊÀ€úä\
+C
+%
+__dummy"
+__dummy_idJfeature_store2
+”ÊÀ€úä\”ÊÀ€úä\1"$48230ff1-3ebb-4add-84bc-74e8a4864774*Å•ÊÀ°äâ‡2Â
+¢
+customer_features1feature_store2
+CustomerID"
+CreditScore"
+Age"
+Balance"
+EstimatedSalary"
+
+Tenure"
+NumOfProducts2€ç„:|event_timestampZdata/churn_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/churn_data.parquet@b
+
+CustomerID
+”ÊÀ€úä\Å•ÊÀ€¡Ú…Rû
+ø
+,feast.infra.online_stores.sqlite.SqliteTable"Ç
+¡D:\Radhika.Halde_course5i.com\OneDrive - Course5 Intelligence Limited\Documents\dell_repo\mlops_lifcycle_project\feature_store2\feature_repo\data\online_store.db!feature_store2_customer_features1bevent_timestampZdata/churn_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/churn_data.parquetªfeature_store2Š.
+
+feature_store2
+”ÊÀ§ã”ÊÀ§ã
